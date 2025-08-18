@@ -26,7 +26,7 @@ Um projeto em Java para catalogar leituras de livros.
 - Registro de considerações e avaliações a cada leitura  
 - Focado em organização e reflexão pessoal  
 
-🔗 [Acesse o repositório](https://github.com/SEU-USUARIO/NOME-DO-REPO)  
+🔗 [Acesse o repositório](https://github.com/ipaixaolt/CatalogoLiterario/tree/main)  
 
 ---
 
