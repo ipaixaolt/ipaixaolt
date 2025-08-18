@@ -1,16 +1,46 @@
-## Hi there 👋
+## Olá, me chamo Isadellis 👋
 
-<!--
-**ipaixaolt/ipaixaolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou formada no curso técnico em **Informática integrado ao Ensino Médio** pelo **CEFET-MG** e atualmente curso **Engenharia de Computação** na mesma instituição.  
 
-Here are some ideas to get you started:
+💻 Atualmente estou aprofundando meus estudos em Java e iniciando os estudos em Rust.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias e Ferramentas  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 📚 Projeto em Destaque  
+
+**📖 Catálogo de Leituras**  
+Um projeto em Java para catalogar leituras de livros.  
+- Permite adicionar múltiplas "leituras" para cada livro  
+- Registro de considerações e avaliações a cada leitura  
+- Focado em organização e reflexão pessoal  
+
+🔗 [Acesse o repositório](https://github.com/SEU-USUARIO/NOME-DO-REPO)  
+
+---
+
+### 🌐 Onde me encontrar  
+
+<p>
+  <a href="https://www.linkedin.com/in/isadellis-paix%C3%A3o-184682226/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:isadellispaixao@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ Se curtir algum dos meus projetos, fique à vontade para deixar uma estrela nos repositórios!
