@@ -40,7 +40,3 @@ Um projeto em Java para catalogar leituras de livros.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
-⭐ Se curtir algum dos meus projetos, fique à vontade para deixar uma estrela nos repositórios!
