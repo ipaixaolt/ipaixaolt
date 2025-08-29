@@ -1,8 +1,8 @@
 ## Olá, me chamo Isadellis 👋
 
-🎓 Sou formada no curso técnico em **Informática integrado ao Ensino Médio** pelo **CEFET-MG** e atualmente curso **Engenharia de Computação** na mesma instituição.  
+Sou formada no curso técnico em **Informática integrado ao Ensino Médio** pelo **CEFET-MG** e atualmente curso **Engenharia de Computação** na mesma instituição.  
 
-💻 Atualmente estou aprofundando meus estudos em Java e iniciando os estudos em Rust.  
+Atualmente estou aprofundando meus estudos em Java.  
 
 ---
 
