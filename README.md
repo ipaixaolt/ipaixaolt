@@ -18,18 +18,6 @@ Atualmente estou aprofundando meus estudos em Java.
 
 ---
 
-### 📚 Projeto em Destaque  
-
-**📖 Catálogo de Leituras**  
-Um projeto em Java para catalogar leituras de livros.  
-- Permite adicionar múltiplas "leituras" para cada livro  
-- Registro de considerações e avaliações a cada leitura  
-- Focado em organização e reflexão pessoal  
-
-🔗 [Acesse o repositório](https://github.com/ipaixaolt/CatalogoLiterario/tree/main)  
-
----
-
 ### 🌐 Onde me encontrar  
 
 <p>
