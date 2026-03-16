@@ -11,7 +11,7 @@ Atualmente estou aprofundando meus estudos em Java.
 <p>
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
